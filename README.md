@@ -6,6 +6,12 @@ This app is a React client for browsing Reddit. It is not yet complete; I am wor
  - Filter posts by subreddit in realtime
  - Allows you to quickly see if a thread's comments are generally positive, or negative, and how much so
 
+ ## How to install
+  - Clone the repo
+  - Install dependencies with `npm install`
+  - Run `npm start`
+  - Open the browser and navigate to http://localhost:3000
+
 ## Todo
  - Finish individual post pages
  - Create subreddit pages
