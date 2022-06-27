@@ -6,7 +6,7 @@ const Navbar = () => {
   const data = useDataContext();
   const setSubreddit = data.setSubreddit;
   return (
-    <div className="flex items-center border-b bg-white dark:border-borderDark dark:bg-bgDark">
+    <div className="flex items-center border-b bg-white dark:border-borderDark dark:bg-bgDark h-[56px]">
       <div className="mx-auto flex w-full max-w-screen-2xl items-center justify-between px-5">
         <Link
           to="/"
